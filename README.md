@@ -31,7 +31,7 @@ In this home lab, I will deploy and configure osTicket on an Azure Windows VM to
 ### 4. Install / Enable IIS with CGI Support
 - Go to **World Wide Web Services -> Application Development Features** and ensure **CGI** is selected.
   
-  ![image](https://github.com/user-attachments/assets/7dc7cd1e-2a26-4b2b-bf7d-6bb721a0917e)
+  ![l1](https://github.com/user-attachments/assets/f98a0ecd-e8ce-4053-a6ff-98b56de7dbbb)
 
 ### 5. Install PHP Manager for IIS
 - From the “osTicket-Installation-Files” folder, install **PHP Manager for IIS** (PHPManagerForIIS_V1.5.0.msi).
